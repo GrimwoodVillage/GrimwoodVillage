@@ -1232,7 +1232,7 @@ input::-moz-focus-inner {
 }
  
 .subhead {
-    font-family: cursive, fantasy;
+    font-family: "Monsterrat", sans-serif;
     font-weight: 600;
     font-size: 1.6rem;
     line-height: 1.333;
