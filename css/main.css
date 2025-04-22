@@ -1218,7 +1218,7 @@ input::-moz-focus-inner {
  * ## display headings
  * ------------------------------------------------------------------- */
 .display-1 {
-    font-family: fantasy;
+    font-family: cursive, fantasy;
     font-weight: 600;
     font-size: 4.6rem;
     line-height: 1.5;
@@ -1232,7 +1232,7 @@ input::-moz-focus-inner {
 }
  
 .subhead {
-    font-family: fantasy;
+    font-family: cursive, fantasy;
     font-weight: 600;
     font-size: 1.6rem;
     line-height: 1.333;
