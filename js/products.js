@@ -13,26 +13,26 @@ export function getProduct(productId) {
 export const products = [
 {
     id: '1',
-    image: 'images/products/landotee.JPG',
-    name: 'Lando Norris <br> Tee',
+    image: 'images/products/grimwoodtee.jpeg',
+    name: 'Grimwood Village <br> Tee',
     priceCents: 3899
 },
 {
     id: '2',
-    image: 'images/products/hamiltontee.JPG',
-    name: 'Lewis Hamilton <br> Tee',
+    image: 'images/products/fellhowltee.jpeg',
+    name: 'Fellhowl <br> Tee',
     priceCents: 3899
 },
 {
     id: '3',
-    image: 'images/products/sainztee.JPG',
-    name: 'Carlos Sainz <br> Tee',
+    image: 'images/products/vowreavertee.jpeg',
+    name: 'Vowreaver <br> Tee',
     priceCents: 3899
 },
 {
     id: '4',
-    image: 'images/products/verstappentee.JPG',
-    name: 'Max Verstappen <br> Tee',
+    image: 'images/products/forgehammertee.jpeg',
+    name: 'Forge Hammer <br> Tee',
     priceCents: 3899
 },
 {
