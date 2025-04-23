@@ -15,25 +15,21 @@ export const products = [
     id: '1',
     image: 'images/products/grimwoodtee.jpeg',
     name: 'Grimwood Village <br> Tee',
-    priceCents: 3499
 },
 {
     id: '2',
     image: 'images/products/fellhowltee.jpeg',
     name: 'Fellhowl <br> Tee',
-    priceCents: 3899
 },
 {
     id: '3',
     image: 'images/products/vowreavertee.jpeg',
     name: 'Vowreaver <br> Tee',
-    priceCents: 3899
 },
 {
     id: '4',
     image: 'images/products/forgehammertee.jpeg',
     name: 'Forge Hammer <br> Tee',
-    priceCents: 3899
 },
 {
     id: '5',
