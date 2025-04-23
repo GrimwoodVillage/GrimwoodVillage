@@ -14,22 +14,22 @@ export const products = [
 {
     id: '1',
     image: 'images/products/forgehammert.png',
-    name: 'Forge Hammer <br> Tee',
+    name: 'Forge Hammer Tee',
 },
 {
     id: '2',
     image: 'images/products/vowreavert.png',
-    name: 'Vowreaver <br> Tee',
+    name: 'Vowreaver Tee',
 },
 {
     id: '3',
     image: 'images/products/fellhowlt.png',
-    name: 'Fellhowl <br> Tee',
+    name: 'Fellhowl Tee',
 },
 {
     id: '4',
     image: 'images/products/grimwoodvillaget.png',
-    name: 'Grimwood Village <br> Tee',
+    name: 'Grimwood Tee',
 },
 {
     id: '5',
