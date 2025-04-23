@@ -13,23 +13,23 @@ export function getProduct(productId) {
 export const products = [
 {
     id: '1',
-    image: 'images/products/grimwoodtee.jpeg',
-    name: 'Grimwood Village <br> Tee',
+    image: 'images/products/forgehammert.jpeg',
+    name: 'Forge Hammer <br> Tee',
 },
 {
     id: '2',
-    image: 'images/products/fellhowltee.jpeg',
-    name: 'Fellhowl <br> Tee',
-},
-{
-    id: '3',
-    image: 'images/products/vowreavertee.jpeg',
+    image: 'images/products/vowreavert.jpeg',
     name: 'Vowreaver <br> Tee',
 },
 {
+    id: '3',
+    image: 'images/products/fellhowlt.jpeg',
+    name: 'Fellhowl <br> Tee',
+},
+{
     id: '4',
-    image: 'images/products/forgehammertee.jpeg',
-    name: 'Forge Hammer <br> Tee',
+    image: 'images/products/grimwoodt.jpeg',
+    name: 'Grimwood Village <br> Tee',
 },
 {
     id: '5',
