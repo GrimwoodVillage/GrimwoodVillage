@@ -28,7 +28,7 @@ export const products = [
 },
 {
     id: '4',
-    image: 'images/products/grimwoodt.png',
+    image: 'images/products/grimwoodvillaget.png',
     name: 'Grimwood Village <br> Tee',
 },
 {
