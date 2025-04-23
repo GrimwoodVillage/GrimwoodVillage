@@ -15,7 +15,7 @@ export const products = [
     id: '1',
     image: 'images/products/grimwoodtee.jpeg',
     name: 'Grimwood Village <br> Tee',
-    priceCents: 3899
+    priceCents: 3499
 },
 {
     id: '2',
