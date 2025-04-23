@@ -3024,7 +3024,7 @@ html.cl-loaded .home-content__main {
     border-width: 1px;
     border-style: none solid solid none;
     text-align: center;
-    padding: 2.4rem 0;
+    padding: 1rem 0;
 }
  
 .item-client a {
@@ -3032,9 +3032,9 @@ html.cl-loaded .home-content__main {
 }
  
 .item-client img {
-    -webkit-transform: scale(0.65);
-    -ms-transform: scale(0.65);
-    transform: scale(0.65);
+    -webkit-transform: scale(0.85);
+    -ms-transform: scale(0.85);
+    transform: scale(0.85);
     -webkit-transition: all 0.3s ease-in-out;
     transition: all 0.3s ease-in-out;
 }
