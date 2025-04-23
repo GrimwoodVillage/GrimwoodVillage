@@ -1555,6 +1555,7 @@ input::-moz-focus-inner {
     width: 24px;
     height: 2px;
     margin-top: -1px;
+    padding: 1rem;
     position: absolute;
     left: 9px;
     top: 50%;
@@ -2290,7 +2291,7 @@ html.cl-loaded .home-content__main {
     }
 
     .home-header {
-        display: none;
+        
     }
  
     .home-content h1 {
