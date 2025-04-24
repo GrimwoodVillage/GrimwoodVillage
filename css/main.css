@@ -126,10 +126,6 @@ h6,
     text-rendering: optimizeLegibility;
 }
 
-.sub-h4 {
-  color: #F26522;
-}
-
 h1,
 .h1,
 h2,
@@ -255,6 +251,11 @@ p.lead {
         font-size: 2rem;
     }
  
+}
+
+.sub-h4 {
+  color: #FFFFFF;
+  font-size: 1.5rem;
 }
  
 em,
