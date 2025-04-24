@@ -1555,7 +1555,6 @@ input::-moz-focus-inner {
     width: 24px;
     height: 2px;
     margin-top: -1px;
-    padding: 1rem;
     position: absolute;
     left: 9px;
     top: 50%;
