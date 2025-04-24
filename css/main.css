@@ -3047,9 +3047,9 @@ html.cl-loaded .home-content__main {
 }
  
 .item-client a:hover img {
-    -webkit-transform: scale(0.8);
-    -ms-transform: scale(0.8);
-    transform: scale(0.8);
+    -webkit-transform: scale(1);
+    -ms-transform: scale(1);
+    transform: scale(1);
     opacity: 1;
 }
  
@@ -3064,9 +3064,9 @@ html.cl-loaded .home-content__main {
     }
  
     .item-client img {
-        -webkit-transform: scale(0.8);
-        -ms-transform: scale(0.8);
-        transform: scale(0.8);
+        -webkit-transform: scale(0.9);
+        -ms-transform: scale(0.9);
+        transform: scale(0.9);
     }
  
 }
