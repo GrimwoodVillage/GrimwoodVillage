@@ -125,7 +125,11 @@ h6,
     color: #000000;
     text-rendering: optimizeLegibility;
 }
- 
+
+.sub-h4 {
+  color: #F26522;
+}
+
 h1,
 .h1,
 h2,
