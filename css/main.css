@@ -3047,9 +3047,9 @@ html.cl-loaded .home-content__main {
 }
  
 .item-client a:hover img {
-    -webkit-transform: scale(1);
-    -ms-transform: scale(1);
-    transform: scale(1);
+    -webkit-transform: scale(2);
+    -ms-transform: scale(2);
+    transform: scale(2);
     opacity: 1;
 }
  
