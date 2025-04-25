@@ -1841,7 +1841,7 @@ input::-moz-focus-inner {
     padding-right: 28rem;
     position: relative;
     max-width: 1400px;
-    margin-top: 16rem;
+    padding-top: 16rem;
 }
  
 .home-content__button {
