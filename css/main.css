@@ -2261,6 +2261,7 @@ html.cl-loaded .home-content__main {
  
     .home-content__main {
         text-align: center;
+        padding-right: 0rem;
     }
  
     .home-content__button {
