@@ -5,7 +5,7 @@ let productsHTML = '';
 products.slice(0, 4).forEach((product) => {
     productsHTML += `
         <div class="product-box">
-            <a href="https://raymascarena.github.io/Products/${product.image}" target="_blank">
+            <a href="https://grimwood-village.printify.me" target="_blank">
                 <img class="product-img" src="${product.image}">
             </a>
             <h2 class="product-title">${product.name}</h2>
