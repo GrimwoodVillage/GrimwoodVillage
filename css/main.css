@@ -1915,7 +1915,7 @@ input::-moz-focus-inner {
 .home-content__scroll {
     position: absolute;
     right: 8rem;
-    bottom: 8rem;
+    bottom: 10rem;
     -webkit-transform: rotate(-90deg) translate3d(100%, 50%, 0);
     -ms-transform: rotate(-90deg) translate3d(100%, 50%, 0);
     transform: rotate(-90deg) translate3d(100%, 50%, 0);
