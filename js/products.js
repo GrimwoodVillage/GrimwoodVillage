@@ -13,7 +13,7 @@ export function getProduct(productId) {
 export const products = [
 {
     id: '1',
-    image: 'images/products/forgehammert.png',
+    image: 'images/products/forgehammergreen.png',
     name: 'Forge Hammer Tee',
 },
 {
