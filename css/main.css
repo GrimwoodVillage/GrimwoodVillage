@@ -2585,6 +2585,7 @@ html.cl-loaded .home-content__main {
     padding-bottom: 18rem;
     background-color: #FFFFFF;
     position: relative;
+    background-image: url("images/scrollbg2.jpg");
 }
  
 .portfolio {
