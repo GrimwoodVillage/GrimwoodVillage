@@ -2590,6 +2590,7 @@ html.cl-loaded .home-content__main {
     background-color: #dcd7cb;
     position: relative;
     background-image: url(../images/scrollbg2.jpg);
+    background-size: fit;
 }
  
 .portfolio {
