@@ -9,7 +9,7 @@ products.slice(0, 6).forEach((product) => {
                 <img class="product-img" src="${product.image}">
             </a>
             <h2 class="product-title">${product.name}</h2>
-            
+            <img class="cartadd" src="images/cart2.svg">
         </div>
     `;
 });
