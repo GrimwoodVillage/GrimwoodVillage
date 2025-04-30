@@ -1861,6 +1861,10 @@ input::-moz-focus-inner {
   width: 3.5rem;
   height: auto;
 }
+
+.line {
+  display: inline;
+}
  
 /* ------------------------------------------------------------------- 
  * ## home video link
