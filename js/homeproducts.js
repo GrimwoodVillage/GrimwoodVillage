@@ -2,7 +2,7 @@ import {products} from './products.js';
 
 let productsHTML = '';
 
-products.slice(0, 6).forEach((product) => {
+products.slice(0, 7).forEach((product) => {
     productsHTML += `
         <div class="product-box">
             <a href="${product.link}" target="_blank">
