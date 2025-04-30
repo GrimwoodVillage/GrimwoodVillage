@@ -1858,12 +1858,12 @@ input::-moz-focus-inner {
 }
 
 .cartadd {
-  width: 3.5rem;
+  width: 3.3rem;
   height: auto;
 }
 
 .line {
-  display: inline;
+  display: inline-block;
 }
  
 /* ------------------------------------------------------------------- 
