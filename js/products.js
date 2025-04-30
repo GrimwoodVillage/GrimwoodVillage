@@ -49,14 +49,14 @@ export const products = [
 },
 {
     id: '7',
-    image: 'images/products/grimwoodtrucker.png',
+    image: 'images/products/grimwoodtruckerhat.png',
     name: 'Grimwood Trucker',
     link: 'https://grimwood-village.printify.me/product/19947455/grimwood-trucker',
 },
 {
     id: '6',
-    image: 'images/products/grimwoodcrew.png',
-    name: 'Grimwood Crewneck',
-    link: 'https://grimwood-village.printify.me/product/19925694/grimwood-crewneck',
+    image: 'images/products/grimwoodhoodie.png',
+    name: 'Grimwood Hoodie',
+    link: 'https://grimwood-village.printify.me/product/19948042/grimwood-hoodie',
 },
 ];
