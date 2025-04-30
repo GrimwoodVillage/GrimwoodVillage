@@ -47,4 +47,16 @@ export const products = [
     name: 'Grimwood Crewneck',
     link: 'https://grimwood-village.printify.me/product/19925694/grimwood-crewneck',
 },
+{
+    id: '7',
+    image: 'images/products/grimwoodtrucker.png',
+    name: 'Grimwood Trucker',
+    link: 'https://grimwood-village.printify.me/product/19947455/grimwood-trucker',
+},
+{
+    id: '6',
+    image: 'images/products/grimwoodcrew.png',
+    name: 'Grimwood Crewneck',
+    link: 'https://grimwood-village.printify.me/product/19925694/grimwood-crewneck',
+},
 ];
