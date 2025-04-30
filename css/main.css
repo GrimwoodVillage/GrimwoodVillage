@@ -2596,10 +2596,12 @@ html.cl-loaded .home-content__main {
 .s-works {
     padding-top: 18rem;
     padding-bottom: 18rem;
-    background-color: #dcd7cb;
+    background-color: #f6c892;
     position: relative;
+ /*
     background-image: url(../images/scrollbg2.jpg);
     background-size: cover;
+ */
 }
  
 .portfolio {
