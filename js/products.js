@@ -65,4 +65,10 @@ export const products = [
     name: 'Grimwood Tee',
     link: 'https://grimwood-village.printify.me/product/19843412/grimwood-village-tee',
 },
+{
+    id: '10',
+    image: 'images/products/sdtee.png',
+    name: 'San Diego Tee',
+    link: 'https://grimwood-village.printify.me/product/20085862/grimwood-san-diego-tee',
+},
 ];
