@@ -74,7 +74,7 @@ export const products = [
 {
     id: '11',
     image: 'images/products/vowreavert.png',
-    name: 'Vowrever Tee Tee',
+    name: 'Vowrever Tee',
     link: 'https://grimwood-village.printify.me/product/19843337/vowreaver-tee',
 },
 {
