@@ -13,27 +13,27 @@ export function getProduct(productId) {
 export const products = [
 {
     id: '1',
+    image: 'images/products/lodgetee.png',
+    name: 'Grimwood Lodge Tee',
+    link: 'https://grimwood-village.printify.me/product/20208547/grimwood-lodge-tee',
+},
+{
+    id: '2',
     image: 'images/products/runictee.png',
     name: 'Blizzard Camo',
     link: 'https://grimwood-village.printify.me/product/20078359/blizzard-camo-tee',
 },
 {
-    id: '2',
+    id: '3',
     image: 'images/products/forgehammergreen.png',
     name: 'Forge Hammer',
     link: 'https://grimwood-village.printify.me/product/19843558/forge-hammer-tee',
 },
 {
-    id: '3',
+    id: '4',
     image: 'images/products/sorceresstee.png',
     name: 'Head in the Clouds',
     link: 'https://grimwood-village.printify.me/product/20105330/head-in-the-clouds-tee',
-},
-{
-    id: '4',
-    image: 'images/products/divinetee.png',
-    name: 'Divine Marks',
-    link: 'https://grimwood-village.printify.me/product/20108076/divine-marks-tee',
 },
 {
     id: '5',
@@ -85,8 +85,8 @@ export const products = [
 },
 {
     id: '13',
-    image: 'images/products/lodgetee.png',
-    name: 'Grimwood Lodge Tee',
-    link: 'https://grimwood-village.printify.me/product/20208547/grimwood-lodge-tee',
+    image: 'images/products/divinetee.png',
+    name: 'Divine Marks',
+    link: 'https://grimwood-village.printify.me/product/20108076/divine-marks-tee',
 },
 ];
