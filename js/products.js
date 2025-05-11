@@ -14,7 +14,7 @@ export const products = [
 {
     id: '1',
     image: 'images/products/lodgetee.png',
-    name: 'Grimwood Lodge Tee',
+    name: 'Grimwood Lodge',
     link: 'https://grimwood-village.printify.me/product/20208547/grimwood-lodge-tee',
 },
 {
