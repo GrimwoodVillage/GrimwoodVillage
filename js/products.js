@@ -83,4 +83,10 @@ export const products = [
     name: 'Fellhowl Tee',
     link: 'https://grimwood-village.printify.me/product/19844479/fellhowl-tee',
 },
+{
+    id: '13',
+    image: 'images/products/lodgetee.png',
+    name: 'Grimwood Lodge Tee',
+    link: 'https://grimwood-village.printify.me/product/20208547/grimwood-lodge-tee',
+},
 ];
