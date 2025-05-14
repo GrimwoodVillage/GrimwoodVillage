@@ -43,7 +43,7 @@ export const products = [
 },
 {
     id: '6',
-    image: 'images/products/grimwoodhunterhat.png',
+    image: 'images/products/hunterhat.png',
     name: 'Grimwood Hunter Hat',
     link: 'https://grimwood-village.printify.me/product/20270554/grimwood-hunter-hat',
 },
