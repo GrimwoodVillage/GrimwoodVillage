@@ -58,8 +58,8 @@
 
 @media only screen and (max-width: 600px) {
   .banner .slider .item img {
-    width: 50%;
-    height: 50%;
+    width: 60%;
+    height: 60%;
   }
   .banner .slider .item {
     transform:
