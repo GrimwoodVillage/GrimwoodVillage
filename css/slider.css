@@ -58,12 +58,12 @@
 
 @media only screen and (max-width: 800px) {
   .banner {
-    margin-top: 20rem;
+    margin-top: 25rem;
   }
   
   .banner .slider .item img {
-    width: 90%;
-    height: 90%;
+    width: 150%;
+    height: 150%;
   }
   .banner .slider .item {
     transform:
