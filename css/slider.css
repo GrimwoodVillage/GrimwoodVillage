@@ -95,7 +95,7 @@
   .banner .slider .item {
     transform:
       rotateY(calc( (var(--position) - 1) * (360 / var(--quantity)) * 1deg))
-      translateZ(150px);
+      translateZ(110px);
   }
   .banner .slider {
     transform: perspective(25rem);
