@@ -71,7 +71,7 @@
       translateZ(800px);
   }
   .banner .slider {
-    transform: perspective(25rem);
+    transform: perspective(50rem);
     animation: autoRun 15s linear infinite;
   }
   @keyframes autoRun {
