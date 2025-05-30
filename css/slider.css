@@ -83,6 +83,33 @@
   }
 }
 
+@media only screen and (max-width: 700px) {
+  .banner {
+    margin-top: 30rem;
+  }
+  
+  .banner .slider .item img {
+    width: 70%;
+    height: 70%;
+  }
+  .banner .slider .item {
+    transform:
+      rotateY(calc( (var(--position) - 1) * (360 / var(--quantity)) * 1deg))
+      translateZ(175px);
+  }
+  .banner .slider {
+    transform: perspective(25rem);
+    animation: autoRun 15s linear infinite;
+  }
+  @keyframes autoRun {
+    from {
+        transform: perspective(40rem) rotateX(-12deg) rotateY(0deg);
+    } to {
+        transform: perspective(40rem) rotateX(-12deg) rotateY(360deg);
+    }
+  }
+}
+
 @media only screen and (max-width: 600px) {
   .banner {
     margin-top: 35rem;
