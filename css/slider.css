@@ -62,13 +62,13 @@
   }
   
   .banner .slider .item img {
-    width: 150%;
-    height: 150%;
+    width: 100%;
+    height: 100%;
   }
   .banner .slider .item {
     transform:
       rotateY(calc( (var(--position) - 1) * (360 / var(--quantity)) * 1deg))
-      translateZ(100px);
+      translateZ(800px);
   }
   .banner .slider {
     transform: perspective(25rem);
